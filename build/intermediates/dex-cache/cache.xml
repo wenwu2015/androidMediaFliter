@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_282f018c11a69399a4241880191e04f70e79fc94.jar" />
+    </item>
+    <item
+        jar="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_05a2083d765c0f83ad27f4c3e620f091168e16af.jar" />
+    </item>
+    <item
+        jar="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_1dc45b4c75340d16859472b59bb29bf89a1fd7e6.jar" />
+    </item>
+    <item
+        jar="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\exploded-aar\android-instagram-image-filter\lib_gpuimage\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="667ea1146db42e2b5f907cd7c397f418aa4f9b0b">
+        <dex dex="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\pre-dexed\debug\android-instagram-image-filter-lib_gpuimage-unspecified_73c2e7466cf0d8471f1c4648f22b25e2b09f7dfd.jar" />
+    </item>
+    <item
+        jar="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_cbdbd797a920046a9014bd5b23d706847e0f8487.jar" />
+    </item>
+    <item
+        jar="D:\programfiles\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\github\android-instagram-image-filter\lib_VideoEffects\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_8275cdddd5ce3f5536f45704e1533a0f60e4ea22.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,3 @@
+include ':lib_gpuimage'
+include ':instagramfilter'
+include ':lib_VideoEffects'

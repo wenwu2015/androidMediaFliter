@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github\\android-instagram-image-filter\\instagramfilter\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gallery.xml",
+        "source": "D:\\github\\android-instagram-image-filter\\instagramfilter\\src\\main\\res\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "D:\\github\\android-instagram-image-filter\\instagramfilter\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\github\\android-instagram-image-filter\\instagramfilter\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\github\\android-instagram-image-filter\\instagramfilter\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github\\android-instagram-image-filter\\instagramfilter\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github\\android-instagram-image-filter\\instagramfilter\\build\\intermediates\\res\\merged\\debug\\layout\\item_image.xml",
+        "source": "D:\\github\\android-instagram-image-filter\\instagramfilter\\src\\main\\res\\layout\\item_image.xml"
+    }
+]

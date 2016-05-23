@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-instagram-image-filter.iml" filepath="$PROJECT_DIR$/android-instagram-image-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instagramfilter/instagramfilter.iml" filepath="$PROJECT_DIR$/instagramfilter/instagramfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_VideoEffects/lib_VideoEffects.iml" filepath="$PROJECT_DIR$/lib_VideoEffects/lib_VideoEffects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_gpuimage/lib_gpuimage.iml" filepath="$PROJECT_DIR$/lib_gpuimage/lib_gpuimage.iml" />
+    </modules>
+  </component>
+</project>
